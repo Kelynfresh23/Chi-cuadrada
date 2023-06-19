@@ -1,0 +1,15 @@
+Package: CHICUADRADA
+Type: Package
+Title: Calcula Chicuadrada en relación a los valores observados y esperados de un conjunto
+    de datos categóricos cualitativos. 
+Version: 0.1.0
+Author: Ordaz Rodríguez Kelyn Lizeth
+Maintainer: The package maintainer <al19126071@chapingo.mx>
+Description: Este paquete facilita el cálculo de chi cuadrada con la finalidad de
+    obsevar la diferencia estadística entre las muestras observadas en base a las
+    esperadas, en comparación con las tablas ya establecidas para ji cuadrada tablas 
+References: Infante, S. y Zárate, G. (2012). Metodos estadísticos. Un enfoque interdisciplinario. 3a Edición. Editorial La Gaya Ciencia.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
